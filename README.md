@@ -1,2 +1,2 @@
 # nodejs-trn
-inlcudes snippets for node.js training
+run npm init to initialize npm package usage
